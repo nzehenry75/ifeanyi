@@ -3,5 +3,5 @@ n/s     name
 2       karen
 3       Muna
 4       Christabel
-5       Kayla
-6       henry
+5       
+6       
